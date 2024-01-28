@@ -1,0 +1,8 @@
+name: "showsecrets"
+displayName: "Show All Secrets"
+author: "_LEYN"
+description: "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
+subtitle: "Makes all hidden content visibl."
+version: "1.1"
+minGameVersion: 145
+hidden: true
